@@ -1,0 +1,231 @@
+[
+	{
+		"count":1,
+		"name": "Sprint",
+		"category": ["Armor Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Armor Lock",
+		"category": ["Armor Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Jetpack",
+		"category": ["Armor Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Active Camouflage",
+		"category": ["Armor Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hologram",
+		"category": ["Armor Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Drop Shield",
+		"category": ["Armor Abilities"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "ONI Sword Base - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nightfall - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tip of the Spear - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Long Night of Solace - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Exodus - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "New Alexandria - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Package - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Pillar of Autumn - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lone Wolf - Access Codes",
+		"category": ["Mission Access"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Assault Rifle",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Magnum",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "DMR",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sniper Rifle",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Rocket Launcher",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Shotgun",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Grenade Launcher",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Authorization for Vehicle Operation",
+		"category": ["Mission Progression"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Authorization for Covenant Weaponry",
+		"category": ["Mission Progression"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Fragmentation Grenades",
+		"category": ["Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Plasma Grenades",
+		"category": ["Weapons"],
+		"useful": true
+	},
+	{
+		"count":1,
+		"name": "Black Eye Skull",
+		"category": ["Scoring Skulls", "Black Eye Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Blind Skull",
+		"category": ["Scoring Skulls", "Blind Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Catch Skull",
+		"category": ["Scoring Skulls", "Catch Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Famine Skull",
+		"category": ["Scoring Skulls", "Famine Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Fog Skull",
+		"category": ["Scoring Skulls", "Fog Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Iron Skull",
+		"category": ["Scoring Skulls", "Iron Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Mythic Skull",
+		"category": ["Scoring Skulls", "Mythic Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Thunderstorm Skull",
+		"category": ["Scoring Skulls", "Thunderstorm Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Tilt Skull",
+		"category": ["Scoring Skulls", "Tilt Skull"],
+		"trap": true
+	},
+	{
+		"count":1,
+		"name": "Tough Luck Skull",
+		"category": ["Scoring Skulls", "Tough Luck Skull"],
+		"trap": true
+	},
+	{
+		"count":2,
+		"name": "Increase Difficulty by 1",
+		"category": ["Difficulty Changes"],
+		"trap": true
+	},
+	{
+		"count":2,
+		"name": "Decrease Difficulty by 1",
+		"category": ["Difficulty Changes"],
+		"trap": true
+	}
+
+]

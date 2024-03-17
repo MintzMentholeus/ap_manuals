@@ -1,0 +1,383 @@
+[
+	{
+		"name": "Winter Contingency - Rally Point Alpha Complete",
+		"region": "Winter Contingency",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Winter Contingency",
+		"name": "Winter Contingency - Rally Point Bravo Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Winter Contingency",
+		"name": "Winter Contingency - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": [],
+		"place_item_category": ["Mission Access"]
+	},
+	{
+		"region": "ONI Sword Base",
+		"name": "ONI Sword Base - Rally Point Alpha Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "ONI Sword Base",
+		"name": "ONI Sword Base - Rally Point Bravo Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "ONI Sword Base",
+		"name": "ONI Sword Base - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Nightfall",
+		"name": "Nightfall - Rally Point Alpha Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Nightfall",
+		"name": "Nightfall - Rally Point Bravo Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Nightfall",
+		"name": "Nightfall - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Tip of the Spear - Rally Point Alpha Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Tip of the Spear - Rally Point Bravo Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Tip of the Spear - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Long Night of Solace - Rally Point Alpha Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Long Night of Solace - Rally Point Bravo Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Long Night of Solace - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Exodus - Rally Point Alpha Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Exodus - Rally Point Bravo Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Exodus - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "New Alexandria",
+		"name": "New Alexandria - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "The Package",
+		"name": "The Package - Rally Point Alpha Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "The Package",
+		"name": "The Package - Rally Point Bravo Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "The Package",
+		"name": "The Package - Mission Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "The Pillar of Autumn - Rally Point Alpha Complete",
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "The Pillar of Autumn - Rally Point Bravo Complete",
+		"victory": false,
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "The Pillar of Autumn - Mission Complete",
+		"victory": true,
+		"category": ["Campaign Missions"],
+		"requires": []
+	},
+	{
+		"region": "Lone Wolf",
+		"name": "Lone Wolf - Survive 5 Minutes",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"name": "Data Pad 02 - Winter Contingency",
+		"region": "Winter Contingency",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"name": "Data Pad 04 - ONI Sword Base",
+		"region": "ONI Sword Base",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Nightfall",
+		"name": "Data Pad 06 - Nightfall",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Data Pad 08 - Tip of the Spear",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Data Pad 10 - Long Night of Solace",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Data Pad 12 - Exodus",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "New Alexandria",
+		"name": "Data Pad 14 - New Alexandria",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "The Package",
+		"name": "Data Pad 16 - The Package",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "Data Pad 18 - The Pillar of Autumn",
+		"category": ["Data Pads"],
+		"requires": []
+	},
+	{
+		"name": "Data Pad 01 - Winter Contingency",
+		"region": "Winter Contingency",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"name": "Data Pad 03 - ONI Sword Base",
+		"region": "ONI Sword Base",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Nightfall",
+		"name": "Data Pad 05 - Nightfall",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Data Pad 07 - Tip of the Spear",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Data Pad 09 - Long Night of Solace",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Data Pad 11 - Exodus",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "New Alexandria",
+		"name": "Data Pad 13 - New Alexandria",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "The Package",
+		"name": "Data Pad 15 - The Package",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "Data Pad 17 - The Pillar of Autumn",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "Data Pad 18 - Lone Wolf",
+		"category": ["Legendary Data Pads"],
+		"requires": []
+	},
+	{
+		"name": "Winter Contingency - Par Time",
+		"region": "Winter Contingency",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"name": "Winter Contingency - Par Score",
+		"region": "Winter Contingency",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"name": "ONI Sword Base - Par Time",
+		"region": "ONI Sword Base",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"name": "ONI Sword Base - Par Score",
+		"region": "ONI Sword Base",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Nightfall",
+		"name": "Nightfall - Par Time",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Nightfall",
+		"name": "Nightfall - Par Score",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Tip of the Spear - Par Time",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Tip of the Spear - Par Score",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Long Night of Solace - Par Time",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Long Night of Solace - Par Score",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Exodus - Par Time",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Exodus - Par Score",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "New Alexandria",
+		"name": "New Alexandria - Par Time",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "New Alexandria",
+		"name": "New Alexandria - Par Score",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "The Package",
+		"name": "The Package - Par Time",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "The Package",
+		"name": "The Package - Par Score",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "The Pillar of Autumn - Par Time",
+		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "The Pillar of Autumn - Par Score",
+		"category": ["Timing and Score"],
+		"requires": []
+	}
+]

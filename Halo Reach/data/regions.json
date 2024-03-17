@@ -1,0 +1,43 @@
+{
+	"Winter Contingency": 	{
+		"connects_to": ["ONI Sword Base","Nightfall","Tip of the Spear","Long Night of Solace","Exodus","New Alexandria","The Package"],
+		"starting": true,
+		"requires": []
+	},
+	"ONI Sword Base": 	{
+		"connects_to": ["Nightfall"],
+		"requires": "|ONI Sword Base - Access Codes| AND |Rocket Launcher| AND (|DMR| OR |Magnum| OR |Authorization for Covenant Weaponry|)"
+	},
+	"Nightfall": 	{
+		"connects_to": ["Tip of the Spear"],
+		"requires": "|Nightfall - Access Codes| AND (|Sniper Rifle| OR |Magnum| OR |Authorization for Covenant Weaponry|)"
+	},
+	"Tip of the Spear": 	{
+		"connects_to": ["Long Night of Solace"],
+		"requires": "|Tip of the Spear - Access Codes| AND (|Grenade Launcher| OR |DMR| OR |Authorization for Covenant Weaponry|)"
+	},
+	"Long Night of Solace": 	{
+		"connects_to": ["Exodus"],
+		"requires": "|Long Night of Solace - Access Codes| AND |Authorization for Vehicle Operation| AND (|Assault Rifle| OR |Magnum| OR |Authorization for Covenant Weaponry|)"
+	},
+	"Exodus": 	{
+		"connects_to": ["New Alexandria"],
+		"requires": "|Exodus - Access Codes| AND |Jetpack| AND (|Magnum| OR |Authorization for Covenant Weaponry|)"
+	},
+	"New Alexandria": 	{
+		"connects_to": ["The Package"],
+		"requires": "|New Alexandria - Access Codes| AND |Authorization for Vehicle Operation| AND (|Assault Rifle| OR |DMR| OR |Authorization for Covenant Weaponry|)"
+	},
+	"The Package": 	{
+		"connects_to": ["The Pillar of Autumn"],
+		"requires": "|The Package - Access Codes| AND (|Assault Rifle| OR |DMR| OR |Authorization for Covenant Weaponry|)"
+	},
+	"The Pillar of Autumn": 	{
+		"connects_to": [],
+		"requires": "|The Pillar of Autumn - Access Codes| AND (|Assault Rifle| OR |Magnum| OR |Authorization for Covenant Weaponry|)"
+	},
+	"Lone Wolf": 	{
+		"connects_to": [],
+		"requires": "|Lone Wolf - Access Codes| AND (|Assault Rifle| OR |Magnum| OR |Authorization for Covenant Weaponry|)"
+}
+}

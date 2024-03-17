@@ -1,0 +1,51 @@
+	{
+		"Legendary Data Pads":{
+			"yaml_option": ["legendary_datapads"]
+		},
+		"Data Pads":{
+			"yaml_option": ["datapads"]
+		},
+		"Difficulty Changes":{
+			"yaml_option": ["difficulty_traps"]
+		},
+		"Black Eye Skull":{
+			"yaml_option": ["black_eye_skull"],
+			"hidden": true
+		},
+		"Blind Skull":{
+			"yaml_option": ["blind_skull"],
+			"hidden": true
+		},
+		"Catch Skull":{
+			"yaml_option": ["catch_skull"],
+			"hidden": true
+		},
+		"Famine Skull":{
+			"yaml_option": ["famine_skull"],
+			"hidden": true
+		},
+		"Fog Skull":{
+			"yaml_option": ["fog_skull"],
+			"hidden": true
+		},
+		"Iron Skull":{
+			"yaml_option": ["iron_skull"],
+			"hidden": true
+		},
+		"Mythic Skull":{
+			"yaml_option": ["mythic_skull"],
+			"hidden": true
+		},
+		"Thunderstorm Skull":{
+			"yaml_option": ["thunderstorm_skull"],
+			"hidden": true
+		},
+		"Tilt Skull":{
+			"yaml_option": ["tilt_skull"],
+			"hidden": true
+		},
+		"Tough Luck Skull":{
+			"yaml_option": ["tough_luck_skull"],
+			"hidden": true
+		}
+	}
