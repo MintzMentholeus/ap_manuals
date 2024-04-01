@@ -3,38 +3,44 @@
 		"name": "Winter Contingency - Rally Point Alpha Complete",
 		"region": "Winter Contingency",
 		"category": ["Campaign Missions"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "Winter Contingency",
 		"name": "Winter Contingency - Rally Point Bravo Complete",
 		"category": ["Campaign Missions"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "Winter Contingency",
 		"name": "Winter Contingency - Mission Complete",
 		"category": ["Campaign Missions"],
 		"requires": [],
-		"place_item_category": ["Mission Access"]
+		"place_item_category": ["Mission Access"],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "ONI Sword Base",
 		"name": "ONI Sword Base - Rally Point Alpha Complete",
 		"category": ["Campaign Missions"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "ONI Sword Base",
 		"name": "ONI Sword Base - Rally Point Bravo Complete",
 		"category": ["Campaign Missions"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "ONI Sword Base",
 		"name": "ONI Sword Base - Mission Complete",
 		"category": ["Campaign Missions"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "Nightfall",
@@ -162,13 +168,16 @@
 		"name": "Data Pad 02 - Winter Contingency",
 		"region": "Winter Contingency",
 		"category": ["Data Pads"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+
 	},
 	{
 		"name": "Data Pad 04 - ONI Sword Base",
 		"region": "ONI Sword Base",
 		"category": ["Data Pads"],
-		"requires": []
+		"requires": [], 
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "Nightfall",
@@ -267,7 +276,7 @@
 		"requires": []
 	},
 	{
-		"region": "The Pillar of Autumn",
+		"region": "Lone Wolf",
 		"name": "Data Pad 18 - Lone Wolf",
 		"category": ["Legendary Data Pads"],
 		"requires": []
@@ -276,37 +285,43 @@
 		"name": "Winter Contingency - Par Time",
 		"region": "Winter Contingency",
 		"category": ["Timing and Score"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"name": "Winter Contingency - Par Score",
 		"region": "Winter Contingency",
 		"category": ["Timing and Score"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"name": "ONI Sword Base - Par Time",
 		"region": "ONI Sword Base",
 		"category": ["Timing and Score"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"name": "ONI Sword Base - Par Score",
 		"region": "ONI Sword Base",
 		"category": ["Timing and Score"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "Nightfall",
 		"name": "Nightfall - Par Time",
 		"category": ["Timing and Score"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "Nightfall",
 		"name": "Nightfall - Par Score",
 		"category": ["Timing and Score"],
-		"requires": []
+		"requires": [],
+		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
 	},
 	{
 		"region": "Tip of the Spear",

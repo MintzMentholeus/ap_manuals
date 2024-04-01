@@ -26,6 +26,7 @@ There are two ways to approach skulls and the Increase Difficulty trap:
 - (Optional) The first 9 Data Pads, which do not require you to play on Legendary difficulty.
  - (Optional) Legendary Data Pads, one in each main mission and in Lone Wolf.
 - (Optional) The Par Time and Score on each mission, which might be different on the original and MCC versions. You can check [Halopedia](https://halopedia.org) for more information. The Master Chief Collection shows the par time and score in the campaign select screen; you can enable Time/Score displays in this menu as well (Competitive Score is the recommended option).
+- (Optional) Achievements relevant to Campaign Mode.
 
 ### What are Rally Points?
 Rally Points are a checkpoint that can be accessed directly from the Campaign menu to place you directly in a specific point in a mission.
@@ -50,3 +51,5 @@ Documentation of Rally Points TBA
 ## FAQ
 ### I can't open the Manual, it gives me a "The Manual client can only be used for Manual games"
 If this happens, it means that the Manual name is not set up properly. The correct name should be `Manual_HaloReach_Mintz` (case sensitive).
+### Generation errors
+You might not have enough locations to accomodate the amount of items you're trying to randomize. 
