@@ -25,22 +25,19 @@
 		"region": "ONI Sword Base",
 		"name": "ONI Sword Base - Rally Point Alpha Complete",
 		"category": ["Campaign Missions"],
-		"requires": [],
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"region": "ONI Sword Base",
 		"name": "ONI Sword Base - Rally Point Bravo Complete",
 		"category": ["Campaign Missions"],
-		"requires": [],
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"region": "ONI Sword Base",
 		"name": "ONI Sword Base - Mission Complete",
 		"category": ["Campaign Missions"],
-		"requires": [],
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"region": "Nightfall",
@@ -176,8 +173,7 @@
 		"name": "Data Pad 04 - ONI Sword Base",
 		"region": "ONI Sword Base",
 		"category": ["Data Pads"],
-		"requires": [], 
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"region": "Nightfall",
@@ -299,29 +295,25 @@
 		"name": "ONI Sword Base - Par Time",
 		"region": "ONI Sword Base",
 		"category": ["Timing and Score"],
-		"requires": [],
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"name": "ONI Sword Base - Par Score",
 		"region": "ONI Sword Base",
 		"category": ["Timing and Score"],
-		"requires": [],
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"region": "Nightfall",
 		"name": "Nightfall - Par Time",
 		"category": ["Timing and Score"],
-		"requires": [],
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"region": "Nightfall",
 		"name": "Nightfall - Par Score",
 		"category": ["Timing and Score"],
-		"requires": [],
-		"dont_place_item": ["The Pillar of Autumn - Access Codes"]
+		"requires": []
 	},
 	{
 		"region": "Tip of the Spear",
@@ -393,6 +385,86 @@
 		"region": "The Pillar of Autumn",
 		"name": "The Pillar of Autumn - Par Score",
 		"category": ["Timing and Score"],
+		"requires": []
+	},
+	{
+		"name": "The Soldier We Needed You To Be",
+		"category": "Normal Difficulty Achievements",
+		"requires": "|ONI Sword Base - Access Codes| AND |Nightfall - Access Codes| AND |Tip of the Spear - Access Codes| AND |Long Night of Solace - Access Codes| AND |Exodus - Access Codes| AND |New Alexandria - Access Codes| AND |The Package - Access Codes| AND |The Pillar of Autumn - Access Codes|"
+	},
+	{
+		"name": "Folks Need Heroes...",
+		"category": "Heroic Difficulty Achievements",
+		"requires": "|ONI Sword Base - Access Codes| AND |Nightfall - Access Codes| AND |Tip of the Spear - Access Codes| AND |Long Night of Solace - Access Codes| AND |Exodus - Access Codes| AND |New Alexandria - Access Codes| AND |The Package - Access Codes| AND |The Pillar of Autumn - Access Codes|"
+	},
+	{
+		"name": "Gods Must Be Strong",
+		"category": "Legendary Difficulty Achievements",
+		"requires": "|ONI Sword Base - Access Codes| AND |Nightfall - Access Codes| AND |Tip of the Spear - Access Codes| AND |Long Night of Solace - Access Codes| AND |Exodus - Access Codes| AND |New Alexandria - Access Codes| AND |The Package - Access Codes| AND |The Pillar of Autumn - Access Codes|"
+	},
+	{
+		"name": "A Monument to All Your Sins",
+		"category": "Legendary Difficulty Achievements",
+		"requires": "|ONI Sword Base - Access Codes| AND |Nightfall - Access Codes| AND |Tip of the Spear - Access Codes| AND |Long Night of Solace - Access Codes| AND |Exodus - Access Codes| AND |New Alexandria - Access Codes| AND |The Package - Access Codes| AND |The Pillar of Autumn - Access Codes|"
+	},
+	{
+		"region":"Winter Contingency",
+		"name": "They've Always Been Faster",
+		"category": "Normal Difficulty Achievements",
+		"requires": []
+	},
+	{
+		"region":"ONI Sword Base",
+		"name": "Two Corpses in One Grave",
+		"category": "Normal Difficulty Achievements",
+		"requires": "|Target Locator|"
+	},
+	{
+		"region": "Tip of the Spear",
+		"name": "Banshees, Fast and Low \/ Swift and Shallow",
+		"category": "Normal Difficulty Achievements",
+		"requires": "|Authorization for Vehicle Operation| AND (|Tip of the Spear - Access Codes| OR |The Package - Access Codes|) AND (|Grenade Launcher| OR |Authorization for Covenant Weaponry|)"
+	},
+	{
+		"region":"Tip of the Spear",
+		"name": "Your Heresy Will Stay Your Feet",
+		"category": "Normal Difficulty Achievements",
+		"requires": []
+	},
+	{
+		"region": "The Pillar of Autumn",
+		"name": "If They Came To Hear Me Beg",
+		"category": "Normal Difficulty Achievements",
+		"requires": []
+	},
+	{
+		"region": "Long Night of Solace",
+		"name": "Wake Up, Buttercup",
+		"category": "Heroic Difficulty Achievements",
+		"requires": []
+	},
+	{
+		"region":"The Package",
+		"name": "Tank Beats Everything",
+		"category": "Legendary Difficulty Achievements",
+		"requires": []
+	},
+	{
+		"region": "Exodus",
+		"name": "Lucky Me",
+		"category": "Normal Difficulty Achievements",
+		"requires": []
+	},
+	{
+		"region": "Winter Contingency",
+		"name": "Keep It Clean",
+		"category": "Normal Difficulty Achievements",
+		"requires": []
+	},
+	{
+		"region": "New Alexandria",
+		"name": "I Didn't Train To Be a Pilot",
+		"category": "Normal Difficulty Achievements",
 		"requires": []
 	}
 ]
