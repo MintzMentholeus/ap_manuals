@@ -47,5 +47,14 @@
 		"Tough Luck Skull":{
 			"yaml_option": ["tough_luck_skull"],
 			"hidden": true
+		},
+		"Normal Difficulty Achievements":{
+			"yaml_option": ["normal_achievements"]
+		},
+		"Heroic Difficulty Achievements":{
+			"yaml_option": ["heroic_achievements"]
+		},
+		"Legendary Difficulty Achievements":{
+			"yaml_option": ["legendary_achievements"]
 		}
 	}

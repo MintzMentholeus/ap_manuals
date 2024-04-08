@@ -133,6 +133,12 @@
 	},
 	{
 		"count":1,
+		"name": "Target Locator",
+		"category": ["Weapons"],
+		"progression": true
+	},
+	{
+		"count":1,
 		"name": "Authorization for Vehicle Operation",
 		"category": ["Mission Progression"],
 		"progression": true
